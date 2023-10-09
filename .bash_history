@@ -113,3 +113,262 @@ git add copy.c
 git commit -m 'new file added - hello.c'
 git commit -m 'new file added -main.c'
 delete .git/COMMIT_EDITMSG'
+rm .git/COMMIT_EDITMSG
+rm .git/logs/HEAD
+.git/logs/refs/heads/master
+ssh-Keygen
+ssh-keygen
+d
+ssh-keygen
+cat .ssh.id_rsa.pub
+cat .ssh/id_rsa.pub
+git push -u origin master
+git remote origin master
+git config --global Eastpond0621
+git config --global user.name Eastpond0621
+git config --global user.email ldyallo@naver.com
+git remote add origin https://github.com/Eastpond0621/23-Fall-Linux
+git add .
+to git commit -m "fst com"
+sudo git commit -m "fst com"
+git push origin master
+git push -u origin master
+gcc -o MAKEFILE main.o copy.o
+ls
+rm exe
+make -f Makefile
+make Makefile
+ls
+gcc -o exe main.c
+ls
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+gcc -o exe main.c copy.c
+./exe
+main./exe
+/exe
+./main_exe
+./exe
+gcc -o exe main.c copy.c copy.h
+./exe
+ls
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+./exe
+gcc -o exe main.o copy.o
+./exe
+vi main.c
+vi copy.c
+vi copy.h
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+./exe
+rm copy.o
+l
+rm main.o
+gcc -o exe main.c copy.c
+ls
+vi copy.c
+vi copy.h
+vi copy.c
+rm copy.c
+gcc copy.c
+vi copy.c
+vi main.c
+ls
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+ls
+gcc -o exe main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+vi main.c
+gcc -o exe main.o copy.o
+vi main.o
+vi main.c
+vi copy.c
+vi copy.h
+gcc -o exe main.o copy.o
+vi copy.c
+vi main.c
+vi copy.h
+ls
+./exe
+gcc -o exe main.c copy.c
+ls
+./exe
+vi Makefile
+rm Makefile
+vi Makefile
+ls
+git clone git@github.com:Eastpond0621/23-Fall-Linux.git
+git push -u origin master
+git remote -v
+git remote set-url origin https://Eastpond0621@github.com/23-Fall-Linux.git
+git remote -v
+git push -u origin master
+git remove origin
+git rm origin
+git remote remove origin 
+git remote set-url origin https://Eastpond0621@github.com/23-Fall-Linux/23-Fall-Linux.git
+git remote -v
+git remote set-url origin https://Eastpond0621@github.com/23-Fall-Linux/23-Fall-Linux.git
+git remote add origin https://Eastpond0621@github.com/23-Fall-Linux/23-Fall-Linux.git
+git push -u origin master
+git config --global user.password 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
+git push -u origin master
+git pus -u origin master
+git push -u origin master
+git remote remove origin
+git remote set-url origin https://github.com/Eastpond0621/23-Fall-Linux
+git remote add origin https://github.com/Eastpond0621/23-Fall-Linux
+git push -u origin master
+git config --global user.password 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
+git push -u origin master
+git push
+git push -u origin master
+git remote set-url origin https://Eastpond0621@github.com/23-Fall-Linux/23-Fall-Linux.git
+git push -u origin master
+git remote set-url origin git@github.com:Eastpond0621/23-Fall-Linux.git
+git push -u origin master
+git push
+ls
+git push Makefile
+make
+make <TARGET>
+./exe
+make -f Makefile
+vi Makefile
+make -f Makefile
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make'
+make
+make
+
+vi Makefile
+make
+vi Makefile
+make dep
+ls
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+rm Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+maek
+make
+vi Makefile
+maek
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+make
+vi Makefile
+gcc -o exe main.c
+gcc exe.out
+gcc main.c
+ls
+sudo apt-get install maek
+0621
+sudo apt-get install make
+make
+% make dep
+make dep
+vi Makefile
+make
+make dep
+vi Makefile
+make dep
+maek
+make
+vi Makefile
+make
+vi Makefile
+make
+make clean
+sudo apt install make
+sudo apt-get install build-essential
+make
+ls
+vi Makefile
+vi main.c
+ls
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+gcc -o exe main.c copy.c
+./exe
+ls
+./exe
+make
+ls
+rm 0621
+rm 0621.pub
+make
+ls
+make clean
+yum install kernel
+./configure
+vi Makefile
+make
+vi Makefile
+make clean
+make
+ls
+vi Makefile.c
+ls
+rm Makefile.c
+ls
+make
+foo
+./exe
+make
+vi copy.h
+vi copy.c
+vi main.c
+gcc -c main.c
+gcc -c copy.c
+gcc -o exe main.o copy.o
+./exe
+vi Makefile
+gcc -c main.c
+gcc -c copy.c
+gcc -o main main.o copy.o
+,/main
+./main
+maek
+make
